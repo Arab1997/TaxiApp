@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TaxiApp</string>
+    <string name="taxi_app">Taxi App</string>
+    <string name="driver_sign_in">Driver Sign In</string>
+
+    <string name="passenger_sign_in">Passenger Sign In</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="tap_to_log_in">Tap To Log In</string>
+    <string name="title_activity_passanger_maps">Map</string>
+    <string name="title_activity_driver_maps">Map</string>
+</resources>
